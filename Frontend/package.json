@@ -14,12 +14,12 @@
     "ether": "^0.0.9",
     "framer-motion": "^7.2.1",
     "ipfs-http-client": "^58.0.0",
-    "next": "12.2.5",
+    "next": "15.5.10",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.2",
     "react-icons": "^4.4.0",
-    "web3modal": "^1.9.9"
+    "web3modal": "^1.9.12"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
